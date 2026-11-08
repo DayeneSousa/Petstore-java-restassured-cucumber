@@ -1,4 +1,4 @@
-package com.example;
+package com.example.Runner;
 
 import org.junit.platform.suite.api.ConfigurationParameter;
 import org.junit.platform.suite.api.IncludeEngines;
