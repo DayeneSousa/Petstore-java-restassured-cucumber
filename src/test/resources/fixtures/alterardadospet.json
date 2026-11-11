@@ -1,0 +1,18 @@
+{
+  "id": 12,
+  "category": {
+    "id": 1,
+    "name": "dogs"
+  },
+  "name": "pet-atualizado",
+  "photoUrls": [
+    "https://example.com/pet-12.jpg"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "qa"
+    }
+  ],
+  "status": "sold"
+}
