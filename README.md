@@ -2,4 +2,5 @@ O projeto foi implementado em Java, adotando as bibliotecas Rest Assured para va
 
 
 
-<img width="1480" height="379" alt="image" src="https://github.com/user-attachments/assets/dd4ebd7a-7f09-4f16-9877-9a896bf87e51" />
+<img width="1480" height="661" alt="image" src="https://github.com/user-attachments/assets/bbab7f54-eafd-43cf-8454-357e40e1cefe" />
+
